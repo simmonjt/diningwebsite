@@ -1,0 +1,169 @@
+#container {
+	width:100%;
+	height:100%;
+}
+
+#header {
+font-family:Helvetica, sans-serif;
+font-size:36px;
+color:#450084;
+text-align:center;
+height:50px;
+}
+#table {
+	margin-left:auto;
+	margin-right:auto;
+}
+.open {
+	position: absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+	}
+#dukes {
+	background-image:url('images/dukes_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	text-align:center;
+	position:relative;
+}
+#topdog {
+	background-image:url('images/topdog_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#dhall {
+	background-image:url('images/dhall_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#market {
+	background-image:url('images/market_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#ehall {
+	background-image:url('images/ehall_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#festival {
+	background-image:url('images/festival_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#chickfila {
+	background-image:url('images/chickfila_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#einstein {
+	background-image:url('images/einstein_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#letsgo {
+	background-image:url('images/letsgo_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#quiznos {
+	background-image:url('images/quiznos_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#greens {
+	background-image:url('images/greens_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#madisongrill {
+	background-image:url('images/madisongrill_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#mrchips {
+	background-image:url('images/mrchips_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#redmango {
+	background-image:url('images/redmango_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#pod {
+	background-image:url('images/pod_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#freshens {
+	background-image:url('images/freshens_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#jemmys {
+	background-image:url('images/jemmys_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
+#starbucks {
+	background-image:url('images/starbucks_closed.png');
+	background-repeat:no-repeat;
+	background-position:center;
+	width:200px;
+	height:200px;
+	position:relative;
+}
